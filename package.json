@@ -1,0 +1,23 @@
+{
+  "name": "recoilize-fixed",
+  "version": "2.0.1",
+  "description": "Recoil Dev Tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-source-labs/Recoilize"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "recoil": "^0.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Gupta",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
