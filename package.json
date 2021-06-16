@@ -1,12 +1,9 @@
 {
   "name": "recoilize-fixed",
-  "version": "2.0.1",
+  "version": "1.0.0",
   "description": "Recoil Dev Tool",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/open-source-labs/Recoilize"
-  },
+  
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
